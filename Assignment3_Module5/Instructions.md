@@ -1,0 +1,10 @@
+Problem 1:List the event number, event date and count of the event plans.
+Only include event requests in the result if the event request with a work date in December 2013.
+Problem 2: List if event is held in Basketball arena in Dec 2013.
+Problem 3: List if plan managed by Mary Manager of period Oct to Dec 2013
+Problem 4: List if plan has activity of Operation.
+
+2. Modification problems
+2.1: Insert new value
+2.2: Update previous value
+2.3: Delete existing value
